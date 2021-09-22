@@ -11,7 +11,7 @@ To push changes to git
 * git push origin main
 
 To pull changes from git. 
-* git status -a
+* git status -v // tells you what branch you are on.
 * git pull origin main
 * git merge main
 
