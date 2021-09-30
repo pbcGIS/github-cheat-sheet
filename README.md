@@ -9,6 +9,7 @@ To push changes to git
 * git add --all
 * git commit .
 * git push origin main
+* to force over-write changes to main branch: git push origin main
 
 To pull changes from git. 
 * git status -v // tells you what branch you are on.
